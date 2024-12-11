@@ -1,7 +1,7 @@
 data_config:
-  train_file: train.jsonl
-  val_file: dev.jsonl
-  test_file: dev.jsonl
+  train_file: tttt.jsonl
+  val_file: dddd.jsonl
+  test_file: dddd.jsonl
   num_proc: 1
 
 freezeV: False
